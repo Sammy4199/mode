@@ -1,0 +1,48 @@
+div {
+ border-radius: 7px;
+ font-family: "Verdana", Sans-serif;
+ margin-bottom: 5px;
+ text-align: center;
+}
+
+.theme {
+ background-color: ghostwhite;
+ height: 300px;
+}
+
+.options {
+ height: 70px;
+ background-color: pink;
+}
+
+button {
+ border: none;
+ border-radius: 5px;
+ font-size: 17px;
+ height: 40px;
+ width: 70px;
+ margin: 15px 5px 5px 0;
+}
+
+img {
+ border-radius: 10px;
+ height: 150px;
+ width: 150px;
+}
+
+.label {
+ font-size: 30px;
+ margin-top: 3px;
+}
+
+.dark {
+ background-color: lightSteelBlue;
+}
+
+.light {
+ background-color: ghostWhite;
+}
+
+.ninja {
+  background-color: darkGray;
+}
